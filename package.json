@@ -1,0 +1,18 @@
+{
+  "name": "search-wp-spfx-templates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Elio Struyf <info@estruyf.be> (http://www.eliostruyf.com)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-plugin-transform-react-jsx": "^6.8.0",
+    "babel-preset-es2015": "^6.16.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-cached": "^1.1.0",
+    "gulp-spsync-creds": "^2.2.6"
+  }
+}

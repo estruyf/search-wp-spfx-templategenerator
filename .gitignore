@@ -1,0 +1,7 @@
+.vscode
+node_modules
+dist
+src/Shared Documents
+config.json
+typings
+tsd.json
