@@ -1,7 +1,7 @@
 .vscode
 node_modules
-dist
-src/Shared Documents
+dist/*
+src/*
 config.json
 typings
 tsd.json
